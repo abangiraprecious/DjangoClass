@@ -1,0 +1,1 @@
+A Refactory Django Class
